@@ -1,3 +1,5 @@
+board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+
 """ Tic tac toe """
 def print_state(state):
     for i, c in enumerate(state):
